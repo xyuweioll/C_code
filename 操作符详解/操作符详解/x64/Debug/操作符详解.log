@@ -1,0 +1,4 @@
+﻿  操作符.c
+D:\C_project\操作符详解\操作符详解\操作符.c(142,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\C_project\操作符详解\操作符详解\操作符.c(142,9): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  操作符详解.vcxproj -> D:\C_project\操作符详解\x64\Debug\操作符详解.exe
